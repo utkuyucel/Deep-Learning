@@ -1,5 +1,5 @@
 # Deep-Learning
 
-Those are my personal sequential models for increasing the accuracy of validation data.
+Those are my personal sequential & Functional API models for increasing the accuracy of validation data.
 
 I'm using CIFAR-10 dataset for now. When I got high accuracy on my model, I'll use some different datasets on it.
